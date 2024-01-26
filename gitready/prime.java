@@ -5,6 +5,7 @@
 // FOR: CS 1400- Assignment #4
 // TIME SPENT: 1 hour
 //xd
+// this was made on the edit branch
 //-----------------------------------------------------------*/
 
 import java.util.Scanner;
